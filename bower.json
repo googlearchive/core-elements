@@ -1,5 +1,5 @@
 {
-  "name": "Polymer/core-elements",
+  "name": "core-elements",
   "private": true,
   "dependencies": {
     "polymer": "Polymer/polymer#master",
