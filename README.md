@@ -1,4 +1,4 @@
 core-elements
-=============
+=========
 
-Aggregate core-elements as dependencies of this single package
+See //polymer.github.io/core-elements
