@@ -5,7 +5,7 @@
     "polymer": "Polymer/polymer#master",
     "core-layout-trbl": "Polymer/core-layout-trbl#master",
     "core-ajax": "Polymer/core-ajax#master",
-    "core-component-page": "Polymer/core-component-page#master",
+    "core-firebase": "Polymer/core-firebase#master",
     "core-icon": "Polymer/core-icon#master",
     "core-iconset": "Polymer/core-iconset#master",
     "core-layout": "Polymer/core-layout#master",
