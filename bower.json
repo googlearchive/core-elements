@@ -6,8 +6,6 @@
     "core-layout-trbl": "Polymer/core-layout-trbl#master",
     "core-ajax": "Polymer/core-ajax#master",
     "core-component-page": "Polymer/core-component-page#master",
-    "core-doc-viewer": "Polymer/core-doc-viewer#master",
-    "core-docs": "Polymer/core-docs#master",
     "core-icon": "Polymer/core-icon#master",
     "core-iconset": "Polymer/core-iconset#master",
     "core-layout": "Polymer/core-layout#master",
