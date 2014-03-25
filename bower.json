@@ -12,6 +12,7 @@
     "core-layout": "Polymer/core-layout#master",
     "core-media-query": "Polymer/core-media-query#master",
     "core-meta": "Polymer/core-meta#master",
+    "core-range": "Polymer/core-range#master",
     "core-selection": "Polymer/core-selection#master",
     "core-selector": "Polymer/core-selector#master",
     "core-tests": "Polymer/core-tests#master",
