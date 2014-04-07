@@ -17,6 +17,8 @@
     "core-selector": "Polymer/core-selector#master",
     "core-tests": "Polymer/core-tests#master",
     "core-theme-aware": "Polymer/core-theme-aware#master",
-    "core-action-icons": "Polymer/core-action-icons#master"
-  }
-}
+    "core-toolbar": "Polymer/core-toolbar#master",
+    "core-item": "Polymer/core-item#master",
+    "core-collapse": "Polymer/core-collapse#master",
+    "core-menu": "Polymer/core-menu#master",
+    "core-pages": "Polymer/core-pages#master"
