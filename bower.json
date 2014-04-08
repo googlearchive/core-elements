@@ -10,6 +10,7 @@
     "core-firebase": "Polymer/core-firebase#master",
     "core-header-panel": "Polymer/core-header-panel#master",
     "core-icon": "Polymer/core-icon#master",
+    "core-icon-button": "Polymer/core-icon-button#master",
     "core-iconset": "Polymer/core-iconset#master",
     "core-layout": "Polymer/core-layout#master",
     "core-media-query": "Polymer/core-media-query#master",
