@@ -25,6 +25,11 @@
     "core-collapse": "Polymer/core-collapse#master",
     "core-menu": "Polymer/core-menu#master",
     "core-pages": "Polymer/core-pages#master",
-    "core-input": "Polymer/core-input#master"
+    "core-input": "Polymer/core-input#master",
+    "core-tooltip": "Polymer/core-tooltip#master",
+    "core-field": "Polymer/core-field#master",
+    "core-list": "Polymer/core-list#master",
+    "core-menu-button": "Polymer/core-menu-button#master",
+    "core-overlay": "Polymer/core-overlay#master"
   }
 }
