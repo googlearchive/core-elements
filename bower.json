@@ -29,6 +29,7 @@
     "core-overlay": "Polymer/core-overlay#master",
     "core-pages": "Polymer/core-pages#master",
     "core-range": "Polymer/core-range#master",
+    "core-scaffold": "Polymer/core-scaffold#master",
     "core-selection": "Polymer/core-selection#master",
     "core-selector": "Polymer/core-selector#master",
     "core-tests": "Polymer/core-tests#master",
