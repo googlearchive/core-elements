@@ -35,6 +35,7 @@
     "core-tests": "Polymer/core-tests#master",
     "core-theme-aware": "Polymer/core-theme-aware#master",
     "core-toolbar": "Polymer/core-toolbar#master",
-    "core-tooltip": "Polymer/core-tooltip#master"
+    "core-tooltip": "Polymer/core-tooltip#master",
+    "core-bind": "Polymer/core-bind#master"
   }
 }
