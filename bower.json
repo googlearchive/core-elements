@@ -4,17 +4,17 @@
   "dependencies": {
     "polymer": "Polymer/polymer#master",
     "core-ajax": "Polymer/core-ajax#master",
+    "core-bind": "Polymer/core-bind#master",
     "core-collapse": "Polymer/core-collapse#master",
-    "core-docs": "Polymer/core-docs#master",
     "core-doc-viewer": "Polymer/core-doc-viewer#master",
+    "core-docs": "Polymer/core-docs#master",
     "core-drag-drop": "Polymer/core-drag-drop#master",
     "core-drawer-panel": "Polymer/core-drawer-panel#master",
     "core-field": "Polymer/core-field#master",
     "core-firebase": "Polymer/core-firebase#master",
     "core-header-panel": "Polymer/core-header-panel#master",
-    "core-icon": "Polymer/core-icon#master",
     "core-icon-button": "Polymer/core-icon-button#master",
-    "core-iconset": "Polymer/core-iconset#master",
+    "core-icons": "Polymer/core-icons#master",
     "core-input": "Polymer/core-input#master",
     "core-item": "Polymer/core-item#master",
     "core-layout": "Polymer/core-layout#master",
@@ -36,7 +36,6 @@
     "core-tests": "Polymer/core-tests#master",
     "core-theme-aware": "Polymer/core-theme-aware#master",
     "core-toolbar": "Polymer/core-toolbar#master",
-    "core-tooltip": "Polymer/core-tooltip#master",
-    "core-bind": "Polymer/core-bind#master"
+    "core-tooltip": "Polymer/core-tooltip#master"
   }
 }
