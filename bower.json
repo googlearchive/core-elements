@@ -32,10 +32,12 @@
     "core-scaffold": "Polymer/core-scaffold#master",
     "core-selection": "Polymer/core-selection#master",
     "core-selector": "Polymer/core-selector#master",
+    "core-shared-lib": "Polymer/core-shared-lib#master",
     "core-splitter": "Polymer/core-splitter#master",
     "core-tests": "Polymer/core-tests#master",
     "core-theme-aware": "Polymer/core-theme-aware#master",
     "core-toolbar": "Polymer/core-toolbar#master",
-    "core-tooltip": "Polymer/core-tooltip#master"
+    "core-tooltip": "Polymer/core-tooltip#master",
+    "core-transition": "Polymer/core-transition#master"
   }
 }
