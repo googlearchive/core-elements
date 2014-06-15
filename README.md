@@ -1,4 +1,4 @@
 core-elements
 =========
 
-See //polymer.github.io/core-elements
+See the [Core Elements docs](http://www.polymer-project.org/components/core-docs/index.html)
