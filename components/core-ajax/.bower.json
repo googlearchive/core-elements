@@ -1,0 +1,17 @@
+{
+  "name": "core-ajax",
+  "private": true,
+  "dependencies": {
+    "polymer": "Polymer/polymer#master"
+  },
+  "homepage": "https://github.com/Polymer/core-ajax",
+  "_release": "6bfdbce223",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "6bfdbce223cd96cf5ad875051f08037f75575c40"
+  },
+  "_source": "git://github.com/Polymer/core-ajax.git",
+  "_target": "master",
+  "_originalSource": "Polymer/core-ajax"
+}

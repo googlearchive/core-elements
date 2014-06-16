@@ -1,0 +1,17 @@
+{
+  "name": "core-style",
+  "private": true,
+  "dependencies": {
+    "polymer": "Polymer/polymer#master"
+  },
+  "homepage": "https://github.com/Polymer/core-style",
+  "_release": "ff801a28e1",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "ff801a28e1a06fd6ab30994bc6f39c5ee96ae4f3"
+  },
+  "_source": "git://github.com/Polymer/core-style.git",
+  "_target": "master",
+  "_originalSource": "Polymer/core-style"
+}

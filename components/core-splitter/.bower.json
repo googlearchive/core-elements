@@ -1,0 +1,17 @@
+{
+  "name": "core-splitter",
+  "private": true,
+  "dependencies": {
+    "polymer": "Polymer/polymer#master"
+  },
+  "homepage": "https://github.com/Polymer/core-splitter",
+  "_release": "4baf3f4ce1",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "4baf3f4ce108485ccd3ef0db6d2357e9d70b2aae"
+  },
+  "_source": "git://github.com/Polymer/core-splitter.git",
+  "_target": "master",
+  "_originalSource": "Polymer/core-splitter"
+}
