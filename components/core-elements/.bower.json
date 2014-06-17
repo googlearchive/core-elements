@@ -48,6 +48,5 @@
   },
   "_source": "git://github.com/Polymer/core-elements.git",
   "_target": "master",
-  "_originalSource": "Polymer/core-elements",
-  "_direct": true
+  "_originalSource": "Polymer/core-elements"
 }
