@@ -5,11 +5,11 @@
     "polymer": "Polymer/polymer#master"
   },
   "homepage": "https://github.com/Polymer/core-layout-grid",
-  "_release": "417956cfd1",
+  "_release": "284c29c958",
   "_resolution": {
     "type": "branch",
     "branch": "master",
-    "commit": "417956cfd109dcefce0a861a3d907f23dfdfef80"
+    "commit": "284c29c9587182140e416a51aa56e4bf8a5ad1d9"
   },
   "_source": "git://github.com/Polymer/core-layout-grid.git",
   "_target": "master",

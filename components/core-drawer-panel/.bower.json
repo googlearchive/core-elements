@@ -6,11 +6,11 @@
     "core-media-query": "Polymer/core-media-query#master"
   },
   "homepage": "https://github.com/Polymer/core-drawer-panel",
-  "_release": "e22bd84a11",
+  "_release": "f64fb500a4",
   "_resolution": {
     "type": "branch",
     "branch": "master",
-    "commit": "e22bd84a11e447d0b450a407ea0436800d77ca24"
+    "commit": "f64fb500a49658e57e37b69c0df6849862dcf254"
   },
   "_source": "git://github.com/Polymer/core-drawer-panel.git",
   "_target": "master",

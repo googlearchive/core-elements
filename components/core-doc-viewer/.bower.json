@@ -15,11 +15,11 @@
     "highlightjs-element": "PolymerLabs/highlightjs-element#master"
   },
   "homepage": "https://github.com/Polymer/core-doc-viewer",
-  "_release": "ddb67753e8",
+  "_release": "575ce9da3f",
   "_resolution": {
     "type": "branch",
     "branch": "master",
-    "commit": "ddb67753e86a3b7e1fcecb525d25a4a0897785a9"
+    "commit": "575ce9da3fe92f91b7287c427204d384c1d3745f"
   },
   "_source": "git://github.com/Polymer/core-doc-viewer.git",
   "_target": "master",

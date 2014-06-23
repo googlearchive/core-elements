@@ -40,11 +40,11 @@
     "core-transition": "Polymer/core-transition#master"
   },
   "homepage": "https://github.com/Polymer/core-elements",
-  "_release": "ca207577bd",
+  "_release": "5c3bc0d0a0",
   "_resolution": {
     "type": "branch",
     "branch": "master",
-    "commit": "ca207577bd049230430ca4bd16f1617b5cd3cd6a"
+    "commit": "5c3bc0d0a019a90c6d26d8dbce395e2ce84ffac1"
   },
   "_source": "git://github.com/Polymer/core-elements.git",
   "_target": "master",

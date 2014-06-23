@@ -8,11 +8,11 @@
     "core-toolbar": "Polymer/core-toolbar#master"
   },
   "homepage": "https://github.com/Polymer/core-scaffold",
-  "_release": "289e93579d",
+  "_release": "3d0bd36178",
   "_resolution": {
     "type": "branch",
     "branch": "master",
-    "commit": "289e93579d1aaeceac37b8c1b733ab9566c123b3"
+    "commit": "3d0bd3617823c2bc9bca941a72529ba754fb3df2"
   },
   "_source": "git://github.com/Polymer/core-scaffold.git",
   "_target": "master",

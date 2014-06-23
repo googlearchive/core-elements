@@ -5,6 +5,65 @@
 <!--
 Displays formatted source documentation scraped from input urls.
 
+Documentation can be encoded into html comments (&lt;!-- ... --&gt;) or using JsDoc notation (/&#42;&#42; ... &#42;/).
+
+When using JsDoc notation, remember that the left-margin includes an asterisk and a single space.
+This is important for markdown constructs that count spaces. Code blocks for example, must be
+five spaces from the first asterisk.
+
+## Markdown
+
+Markdown format is supported.
+
+### Links
+
+Arbitrary links can be encoded using [standard markdown format](http://daringfireball.net/projects/markdown/syntax). 
+[GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown) is also supported.
+
+Links to other topics can be made with hash-links [core-doc-viewer](#core-doc-viewer).
+
+### Code
+
+Example
+
+    Four space indents indicate code blocks.
+    
+    <code>blocks are syntax highlighted</code>
+    
+    <script>
+      while(true) {
+        javascript('is highlighted also');
+      }
+    </script>
+
+### Blockquote
+
+ > Blockquote is supported for long text that needs to wrap with a common left side indent.
+ > Blockquote is supported for long text that needs to wrap with a common left side indent.  
+
+### Lists
+ 
+1.  enumerated
+1.  lists
+ 
+Use - or + for bullet points:
+ 
+- bullet
+- lists
+
+### Tables
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
+### HTML
+
+Arbitrary HTML is also supported
+
+<input><button>Button</button><hr/>
+
 @class core-doc-viewer
 @homepage github.io
 -->
@@ -42,7 +101,7 @@ Displays formatted source documentation scraped from input urls.
        * A single file to parse for docs
        *
        * @attribute url
-       * @type Array
+       * @type String
        * @default ''
        */
 

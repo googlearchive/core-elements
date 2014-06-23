@@ -5,11 +5,11 @@
     "polymer": "Polymer/polymer#master"
   },
   "homepage": "https://github.com/Polymer/core-field",
-  "_release": "3705b3325b",
+  "_release": "92dd31b008",
   "_resolution": {
     "type": "branch",
     "branch": "master",
-    "commit": "3705b3325b2c3a742f005e12b5ebb46916a560ec"
+    "commit": "92dd31b00810982607b04fb8b000d9acbe18b26a"
   },
   "_source": "git://github.com/Polymer/core-field.git",
   "_target": "master",

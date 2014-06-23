@@ -5,11 +5,11 @@
     "polymer": "Polymer/polymer#master"
   },
   "homepage": "https://github.com/Polymer/core-tooltip",
-  "_release": "d1c3916cb4",
+  "_release": "c842a45a3e",
   "_resolution": {
     "type": "branch",
     "branch": "master",
-    "commit": "d1c3916cb413823f5739f960feefdfa5ff8c9327"
+    "commit": "c842a45a3ed5e6351759e55356fe0e0166430dd8"
   },
   "_source": "git://github.com/Polymer/core-tooltip.git",
   "_target": "master",

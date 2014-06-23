@@ -53,7 +53,7 @@ Element wrapper for the `highlightjs` (http://highlightjs.org/) library.
 
     Polymer('highlightjs-element', {
 
-      ready: function() {
+      domReady: function() {
         if (!this.text) {
           if (this.firstElementChild && this.firstElementChild.localName === 'template') {
             this.text = this.firstElementChild.innerHTML;
