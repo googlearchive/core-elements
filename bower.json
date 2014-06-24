@@ -38,6 +38,6 @@
     "core-toolbar": "Polymer/core-toolbar#master",
     "core-tooltip": "Polymer/core-tooltip#master",
     "core-transition": "Polymer/core-transition#master",
-	"sampler-scaffold": "Polymer/sampler-scaffold#master"
+    "sampler-scaffold": "Polymer/sampler-scaffold#master"
   }
 }
