@@ -4,6 +4,7 @@
   "dependencies": {
     "polymer": "Polymer/polymer#master",
     "core-ajax": "Polymer/core-ajax#master",
+    "core-animated-pages": "Polymer/core-animated-pages#master",
     "core-animation": "Polymer/core-animation#master",
     "core-collapse": "Polymer/core-collapse#master",
     "core-doc-viewer": "Polymer/core-doc-viewer#master",
