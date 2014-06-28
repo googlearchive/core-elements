@@ -1,4 +1,4 @@
 core-elements
 =========
 
-See http://www.polymer-project.org/docs/elements/core-elements.html#core-elements
+See http://www.polymer-project.org/docs/elements/core-elements.html
