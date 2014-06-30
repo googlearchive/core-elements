@@ -34,6 +34,7 @@
     "core-selection": "Polymer/core-selection#master",
     "core-selector": "Polymer/core-selector#master",
     "core-shared-lib": "Polymer/core-shared-lib#master",
+    "core-signals": "Polymer/core-signals#master",
     "core-splitter": "Polymer/core-splitter#master",
     "core-style": "Polymer/core-style#master",
     "core-tests": "Polymer/core-tests#master",
