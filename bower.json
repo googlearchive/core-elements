@@ -18,7 +18,6 @@
     "core-icons": "Polymer/core-icons#master",
     "core-input": "Polymer/core-input#master",
     "core-item": "Polymer/core-item#master",
-    "core-layout": "Polymer/core-layout#master",
     "core-layout-grid": "Polymer/core-layout-grid#master",
     "core-layout-trbl": "Polymer/core-layout-trbl#master",
     "core-list": "Polymer/core-list#master",
