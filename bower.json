@@ -28,6 +28,7 @@
     "core-meta": "Polymer/core-meta#master",
     "core-overlay": "Polymer/core-overlay#master",
     "core-pages": "Polymer/core-pages#master",
+    "core-popup-menu": "Polymer/core-popup-menu#master",
     "core-range": "Polymer/core-range#master",
     "core-scaffold": "Polymer/core-scaffold#master",
     "core-scroll-header-panel": "Polymer/core-scroll-header-panel#master",
