@@ -11,7 +11,7 @@
     "core-docs": "Polymer/core-docs#master",
     "core-drag-drop": "Polymer/core-drag-drop#master",
     "core-drawer-panel": "Polymer/core-drawer-panel#master",
-    "core-dropdown": "Polymer/core-dropdown#master",
+    "core-dropdown-menu": "Polymer/core-dropdown-menu#master",
     "core-field": "Polymer/core-field#master",
     "core-header-panel": "Polymer/core-header-panel#master",
     "core-icon-button": "Polymer/core-icon-button#master",
