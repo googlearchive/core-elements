@@ -20,6 +20,7 @@
     "core-image": "Polymer/core-image#master",
     "core-input": "Polymer/core-input#master",
     "core-item": "Polymer/core-item#master",
+    "core-label": "Polymer/core-label#master",
     "core-layout-grid": "Polymer/core-layout-grid#master",
     "core-layout-trbl": "Polymer/core-layout-trbl#master",
     "core-list": "Polymer/core-list#master",
