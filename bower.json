@@ -34,6 +34,7 @@
     "core-range": "Polymer/core-range#master",
     "core-scaffold": "Polymer/core-scaffold#master",
     "core-scroll-header-panel": "Polymer/core-scroll-header-panel#master",
+    "core-scroll-threshold": "Polymer/core-scroll-threshold#master",
     "core-selection": "Polymer/core-selection#master",
     "core-selector": "Polymer/core-selector#master",
     "core-shared-lib": "Polymer/core-shared-lib#master",
